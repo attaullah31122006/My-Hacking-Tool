@@ -2,20 +2,45 @@ clear
 mkdir Tools
 clear 
 echo -e '\033[31;40;1m 
-  █████╗ ██╗             ████████╗ ██████╗  ██████╗ ██╗
- ██╔══██╗██║             ╚══██╔══╝██╔═══██╗██╔═══██╗██║
- ███████║██║     ███████╗   ██║   ██║   ██║██║   ██║██║
- ██╔══██║██║     ╚══════╝   ██║   ██║   ██║██║   ██║██║
- ██║  ██║███████╗           ██║   ╚██████╔╝╚██████╔╝███████╗
- ╚═╝  ╚═╝╚══════╝           ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝ v3
-  Coded by 4lbH4cker
-  github: https://github.com/4lbH4cker
-\033[33;4mVersion:\033[0m 3            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m 4lbH4cker
-
-\e[37m[1]\e[36m Kërkesat & Përditësimi        \e[37m[2]\e[36m Phishing Tool				
+               AAA                       KKKKKKKKK    KKKKKKK                  
+              A:::A                      K:::::::K    K:::::K                  
+             A:::::A                     K:::::::K    K:::::K                  
+            A:::::::A                    K:::::::K   K::::::K                  
+           A:::::::::A                   KK::::::K  K:::::KKK                  
+          A:::::A:::::A                    K:::::K K:::::K                     
+         A:::::A A:::::A                   K::::::K:::::K                      
+        A:::::A   A:::::A                  K:::::::::::K                       
+       A:::::A     A:::::A                 K:::::::::::K                       
+      A:::::AAAAAAAAA:::::A                K::::::K:::::K                      
+     A:::::::::::::::::::::A               K:::::K K:::::K                     
+    A:::::AAAAAAAAAAAAA:::::A            KK::::::K  K:::::KKK                  
+   A:::::A             A:::::A           K:::::::K   K::::::K                  
+  A:::::A               A:::::A   ...... K:::::::K    K:::::K                  
+ A:::::A                 A:::::A  .::::. K:::::::K    K:::::K                  
+AAAAAAA                   AAAAAAA ...... KKKKKKKKK    KKKKKKK
+______________________________________________________________________________
+______________________________________________________________________________
+                           \\\\\\\                     \\\\\\\               
+                            \:::::\                     \:::::\              
+                             \:::::\                     \:::::\             
+                              \:::::\                     \:::::\            
+                               \:::::\                     \:::::\           
+                                \:::::\                     \:::::\          
+                                 \:::::\                     \:::::\         
+                                  \:::::\                     \:::::\        
+                                   \:::::\                     \:::::\       
+                                    \:::::\                     \:::::\      
+                                     \:::::\                     \:::::\     
+                                      \:::::\                     \:::::\    
+                                       \:::::\                     \:::::\   
+                                        \:::::\                     \:::::\  
+                                         \:::::\                     \:::::\ 
+                                          \\\\\\\                     \\\\\\\
+  Coded by A.K
+  github: https://github.com/A.K  \033[33;4mVersion:\033[0m 3            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m A.K
+\e[37m[2]\e[36m Phishing Tool				
 \e[37m[3]\e[36m WebCam Hack                   \e[37m[4]\e[36m User Find					
-\e[37m[5]\e[36m Gmail Bomber		  \e[37m[6]\e[36m DDOS Attack			
-\e[37m[7]\e[36m Si të përdorni ?	          \e[37m[8]\e[36m Çinstaloni programet e shkarkuara		
+\e[37m[5]\e[36m Gmail Bomber		  \e[37m[6]\e[36m DDOS Attack					
 \e[37m[9]\e[36m Ip Info	                  \e[37m[10]\e[36m dorks-eye
 \e[37m[11]\e[36m ghost_eye                    \e[37m[12]\e[36m RED_HAWK
 \e[37m[13]\e[36m VirusCrafter                 \e[37m[14]\e[36m Info-Site
@@ -23,7 +48,7 @@ echo -e '\033[31;40;1m
 '
 
 
-#Zgjedhja e Opsionit
+#A.K
 
 
 read -p "Numri i transaksionit: " islem
